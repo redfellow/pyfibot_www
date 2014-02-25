@@ -18,7 +18,7 @@ a:hover {
   padding-left: 15px;
 }
 
-.header {
+.page-header, .header {
   border-bottom: 1px solid #e5e5e5;
   font-family: 'Noto Serif', serif;
 }
@@ -68,6 +68,7 @@ a:hover {
   margin-top: 28px;
 }
 
+.panel-title,
 .marketing h3 {
   font-family: 'Noto Serif', serif;
 }
@@ -92,8 +93,14 @@ img.step {
   margin-bottom: 10px;
   margin-left: auto;
 }
+
+.panel-title,
 h3.step {
   text-align: center;
+}
+
+.panel-title {
+  font-size: 24px;
 }
 
 .title span {
@@ -128,6 +135,31 @@ h3.step {
   color: #FFF;
 }
 
+.nav-pills>li>a:hover {
+  background-color: #D64A28;
+  color: #FFF;
+}
+
 .btn-success:visited {
   color: #FFF;
+}
+
+ul {
+  padding: 3px 20px 3px;
+}
+
+li {
+  margin-bottom: 3px;
+}
+
+.feature-img {
+  box-shadow: 0 0 4px 0px rgba(0, 0, 0, 0.2),0 0 1px 0px #000;
+  margin: 10px 0;
+  border-radius: 50%;
+}
+
+.special-text {
+  font-family: 'Noto Serif', serif;
+  font-size: 16px;
+  line-height: 1.5;
 }
