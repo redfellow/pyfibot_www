@@ -1,1 +1,1 @@
-<a href="http://dl.dropboxusercontent.com/u/2188345/pyfi/index.html">Preview here</a>
+<a href="http://red.kapsi.fi/pyfibot_www/">Preview here</a>
