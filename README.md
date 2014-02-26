@@ -1,7 +1,7 @@
 <a href="http://red.kapsi.fi/pyfibot_www/">Preview here</a>
 
 <ul id="highlights">
-   <li>URL title fetching with custom handlers via API calls for speed and efficiency<li>
+   <li>URL title fetching with custom handlers via API calls for speed and efficiency
        <ul>
            <li>IMDb
            <li>Youtube / Dailymotion / Liveleak
@@ -11,6 +11,7 @@
            <li>eBay
            <li>Spotify
        </ul>
+   </li>
    <li>Bitcoin exchange rates
    <li>Wolfram Alpha queries
    <li>Weather
